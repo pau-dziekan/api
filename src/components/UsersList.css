@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.users {
+text-align: center;
+}
+
+.users div {
+    border-top: 2px solid grey;
+    padding-top: 20px;
+}
